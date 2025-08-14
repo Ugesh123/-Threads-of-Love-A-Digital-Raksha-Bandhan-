@@ -18,6 +18,4 @@ Through this platform, I’ve:
 
 **Tech Stack:**
 - HTML, CSS, JavaScript (custom design)
-- Hosted on GitHub Pages
 
-**Live Link:** [Add your website link here]
